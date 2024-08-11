@@ -10,7 +10,7 @@ class Program
         Console.ReadLine();
         Console.Clear();
 
-        string[] items = { "a", "b", "c", "d", "e", "f", "g", "h", "ı", "i", "j", "k", "l", "m", "n", "o", "ö", "p", "q", "r", "s", "ş", "t", "u", "ü", "v", "w", "x", "y", "z", ".", "-", "_", ",", "@", "#" };
+        string[] items = { "a", "b", "c", "d", "e", "f", "g", "h", "ı", "i", "j", "k", "l", "m", "n", "o", "ö", "p", "q", "r", "s", "ş", "t", "u", "ü", "v", "w", "x", "y", "z", ".", "-", "_", ",", "@", "#", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0" };
         string dosyaYolu = "sifreler.txt"; // Şifrelerin kaydedileceği dosyanın adı
 
         // Dosyayı oluşturup şifreleri dosyaya yazma işlemi
